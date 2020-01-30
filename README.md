@@ -13,4 +13,4 @@ python Calc.py
 ```
 
 ### Screenshot:
-![Demo](demo/pattern.gif)
+![Demo](ss.jpeg)
